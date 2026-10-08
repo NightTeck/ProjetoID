@@ -151,7 +151,7 @@ require __DIR__ . '/php/header.php';
 
     <?php if (!empty($erros)): ?>
       <div class="field invalido" style="padding:14px 16px;background:var(--red-100);border-radius:11px;margin-bottom:20px;">
-        <span class="erro-msg" style="display:block;font-size:13px;">
+        <span class="erro-msg" style="display:block;font-size:0.8125rem;">
           <?php foreach ($erros as $e): ?>
             • <?= htmlspecialchars($e) ?><br>
           <?php endforeach; ?>

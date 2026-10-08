@@ -63,23 +63,23 @@ require __DIR__ . '/php/header.php';
     <div class="stats-strip">
       <div class="card" style="text-align:left;padding:24px 22px;">
         <span class="eyebrow" style="margin-bottom:12px;">01</span>
-        <h3 style="font-size:17px;margin:6px 0 6px;">Cadastre seu pet</h3>
-        <p style="font-size:13.5px;color:var(--ink-soft);">Crie o perfil com fotos, características e informações importantes.</p>
+        <h3 style="font-size:1.0625rem;margin:6px 0 6px;">Cadastre seu pet</h3>
+        <p style="font-size:0.84375rem;color:var(--ink-soft);">Crie o perfil com fotos, características e informações importantes.</p>
       </div>
       <div class="card" style="text-align:left;padding:24px 22px;">
         <span class="eyebrow" style="margin-bottom:12px;">02</span>
-        <h3 style="font-size:17px;margin:6px 0 6px;">Identifique</h3>
-        <p style="font-size:13.5px;color:var(--ink-soft);">Tenha uma identidade digital exclusiva e um QR Code para facilitar o reconhecimento.</p>
+        <h3 style="font-size:1.0625rem;margin:6px 0 6px;">Identifique</h3>
+        <p style="font-size:0.84375rem;color:var(--ink-soft);">Tenha uma identidade digital exclusiva e um QR Code para facilitar o reconhecimento.</p>
       </div>
       <div class="card" style="text-align:left;padding:24px 22px;">
         <span class="eyebrow" style="margin-bottom:12px;">03</span>
-        <h3 style="font-size:17px;margin:6px 0 6px;">Encontre</h3>
-        <p style="font-size:13.5px;color:var(--ink-soft);">Se seu pet desaparecer, ative o alerta de pet perdido e aumente o alcance da busca.</p>
+        <h3 style="font-size:1.0625rem;margin:6px 0 6px;">Encontre</h3>
+        <p style="font-size:0.84375rem;color:var(--ink-soft);">Se seu pet desaparecer, ative o alerta de pet perdido e aumente o alcance da busca.</p>
       </div>
       <div class="card" style="text-align:left;padding:24px 22px;">
         <span class="eyebrow" style="margin-bottom:12px;">+</span>
-        <h3 style="font-size:17px;margin:6px 0 6px;">Comunidade</h3>
-        <p style="font-size:13.5px;color:var(--ink-soft);">Cada perfil compartilhado é um vizinho a mais ajudando a procurar.</p>
+        <h3 style="font-size:1.0625rem;margin:6px 0 6px;">Comunidade</h3>
+        <p style="font-size:0.84375rem;color:var(--ink-soft);">Cada perfil compartilhado é um vizinho a mais ajudando a procurar.</p>
       </div>
     </div>
   </div>
